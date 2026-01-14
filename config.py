@@ -1,0 +1,6 @@
+BOT_TOKEN = ""
+
+HISTORY_DAYS = 2 * 365
+FORECAST_DAYS = 30
+
+LOG_FILE = "logs.txt"

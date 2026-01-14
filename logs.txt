@@ -1,0 +1,13 @@
+2026-01-14 12:43:43.894684, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=5.127894193829332, profit=0.0
+2026-01-14 23:22:44.059920, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=5.852116048698519, profit=0.0
+2026-01-14 23:22:59.715746, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=5.6632632976247415, profit=100000.0
+2026-01-14 23:23:11.114078, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=4.6163856537535315, profit=0.0
+2026-01-14 23:23:19.890619, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=6.1317595744759235, profit=0.0
+2026-01-14 23:23:26.943030, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=5.267660613132946, profit=0.0
+2026-01-14 23:23:42.275017, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=6.486631331012423, profit=0.0
+2026-01-14 23:23:49.933718, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=6.184424174906209, profit=0.0
+2026-01-14 23:23:58.383225, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=4.704272764725486, profit=0.0
+2026-01-14 23:24:04.866949, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=4.663343775397474, profit=0.0
+2026-01-14 23:24:10.951516, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=5.793359970987115, profit=100000.0
+2026-01-14 23:24:26.139652, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=4.977360461661009, profit=0.0
+2026-01-14 23:24:34.106358, user_id=1082995037, ticker=AAPL, amount=100000.0, model=LSTM, metric=7.013117191311295, profit=100000.0
